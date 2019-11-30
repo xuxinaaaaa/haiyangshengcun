@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 7939d101d26c40042ac240082fabe34b
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone063
+    100002: Bone062
+    100004: Bone061
+    100006: Bone060
+    100008: Bone059
+    100010: Bone058
+    100012: Bone057
+    100014: Bone056
+    100016: Bone055
+    100018: Bone054
+    100020: Bone053
+    100022: Bone052
+    100024: Bone051
+    100026: Bone050
+    100028: Bone049
+    100030: Bone048
+    100032: Bone047
+    100034: Bone046
+    100036: Bone045
+    100038: Bone044
+    100040: Bone043
+    100042: Bone042
+    100044: Bone041
+    100046: Bone040
+    100048: Bone039
+    100050: Bone038
+    100052: Bone037
+    100054: Bone036
+    100056: Bone035
+    100058: Bone034
+    100060: Bone033
+    100062: Bone032
+    100064: Bone031
+    100066: Bone030
+    100068: Bone029
+    100070: Bone028
+    100072: Bone027
+    100074: Bone026
+    100076: Bone025
+    100078: Bone024
+    100080: Bone023
+    100082: Bone022
+    100084: Bone021
+    100086: Bone020
+    100088: Bone019
+    100090: Bone018
+    100092: Bone017
+    100094: Bone016
+    100096: Bone015
+    100098: Bone066
+    100100: Bone072
+    100102: Bone071
+    100104: Bone070
+    100106: Bone069
+    100108: Bone068
+    100110: Bone067
+    100112: Shape005
+    100114: Shape001
+    100116: Line009
+    100118: Line008
+    100120: Line007
+    100122: Line004
+    100124: Line003
+    100126: Line002
+    100128: Line001
+    100130: IK Chain001
+    100132: IK Chain002
+    100134: IK Chain003
+    100136: IK Chain004
+    100138: IK Chain005
+    100140: IK Chain006
+    100142: IK Chain007
+    100144: IK Chain008
+    100146: Bone014
+    100148: Bone013
+    100150: Bone012
+    100152: Bone011
+    100154: Bone010
+    100156: Bone009
+    100158: Bone008
+    100160: //RootNode
+    100162: Bone065
+    100164: Bone064
+    100166: Object004
+    400000: Bone063
+    400002: Bone062
+    400004: Bone061
+    400006: Bone060
+    400008: Bone059
+    400010: Bone058
+    400012: Bone057
+    400014: Bone056
+    400016: Bone055
+    400018: Bone054
+    400020: Bone053
+    400022: Bone052
+    400024: Bone051
+    400026: Bone050
+    400028: Bone049
+    400030: Bone048
+    400032: Bone047
+    400034: Bone046
+    400036: Bone045
+    400038: Bone044
+    400040: Bone043
+    400042: Bone042
+    400044: Bone041
+    400046: Bone040
+    400048: Bone039
+    400050: Bone038
+    400052: Bone037
+    400054: Bone036
+    400056: Bone035
+    400058: Bone034
+    400060: Bone033
+    400062: Bone032
+    400064: Bone031
+    400066: Bone030
+    400068: Bone029
+    400070: Bone028
+    400072: Bone027
+    400074: Bone026
+    400076: Bone025
+    400078: Bone024
+    400080: Bone023
+    400082: Bone022
+    400084: Bone021
+    400086: Bone020
+    400088: Bone019
+    400090: Bone018
+    400092: Bone017
+    400094: Bone016
+    400096: Bone015
+    400098: Bone066
+    400100: Bone072
+    400102: Bone071
+    400104: Bone070
+    400106: Bone069
+    400108: Bone068
+    400110: Bone067
+    400112: Shape005
+    400114: Shape001
+    400116: Line009
+    400118: Line008
+    400120: Line007
+    400122: Line004
+    400124: Line003
+    400126: Line002
+    400128: Line001
+    400130: IK Chain001
+    400132: IK Chain002
+    400134: IK Chain003
+    400136: IK Chain004
+    400138: IK Chain005
+    400140: IK Chain006
+    400142: IK Chain007
+    400144: IK Chain008
+    400146: Bone014
+    400148: Bone013
+    400150: Bone012
+    400152: Bone011
+    400154: Bone010
+    400156: Bone009
+    400158: Bone008
+    400160: //RootNode
+    400162: Bone065
+    400164: Bone064
+    400166: Object004
+    4300000: Object004
+    7400000: Take 001
+    7400002: Move
+    11100000: //RootNode
+    13700000: Object004
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Move
+      takeName: 
+      firstFrame: 170
+      lastFrame: 260
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
