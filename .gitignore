@@ -1,4 +1,11 @@
+<<<<<<< HEAD
+/*
+!.gitignore
+!/Assets/
+!/ProjectSettings/
+=======
 /*
 !.gitignore
 !/Assets/
 !/ProjectSettings/	
+>>>>>>> 8ad7a00bbfb11b66cced97b1e34989891049f6e6
